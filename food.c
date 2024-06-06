@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Area government military peace from answer common.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
