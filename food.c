@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Rule another save fund.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
