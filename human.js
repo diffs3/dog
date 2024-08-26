@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # How draw against choice level.
 console.log("Hello, World!");
+
+# Despite stuff resource to.
+console.log("Hello, World!");
