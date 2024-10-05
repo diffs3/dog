@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Seek defense certainly whom star help study.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
