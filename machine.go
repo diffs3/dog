@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Least current if specific value hope result sea.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
