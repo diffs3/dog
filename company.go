@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Maintain vote receive.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
