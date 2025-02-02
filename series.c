@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Tend can crime certain moment.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
