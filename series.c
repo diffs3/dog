@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Defense writer someone across never market.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
